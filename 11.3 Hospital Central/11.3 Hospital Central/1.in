@@ -1,0 +1,16 @@
+altaMedico DrSanchez
+altaMedico DraFuentes
+pedirConsulta Pedro DraFuentes
+pedirConsulta Luis DrSanchez
+pedirConsulta Pedro DrSanchez
+siguientePaciente DrSanchez
+abandonarConsulta Pedro
+siguientePaciente DraFuentes
+FIN
+atenderConsulta DrDolittle
+altaMedico DrDolittle
+altaMedico DrDolittle
+pedirConsulta E.Murphy DrDolittle
+pedirConsulta E.Murphy DrDolittle
+siguientePaciente DrDolittle
+FIN
