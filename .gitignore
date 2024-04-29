@@ -13,7 +13,7 @@
 *.vcxproj*
 *.exe
 *.htm
-
+*.sln
 /.vs
 /*/*/.vs
 /*/*/x64
